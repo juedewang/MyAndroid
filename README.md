@@ -1,3 +1,2 @@
 # My android hello world
-android app trial
-nothing to do
+what shall i do?
